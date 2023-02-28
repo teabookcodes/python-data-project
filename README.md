@@ -1,1 +1,1 @@
-# My first data analysis project in Python
+# 🐍 My first data analysis project in Python
